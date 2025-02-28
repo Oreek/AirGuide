@@ -9,6 +9,12 @@ To run, do the following steps
 
 ---
 
+## Recommendation Featire
+
+when you run the app, gemini will ask you to speak of the topics you are currently interested in. It takes them into account and redirects us to a LinkedIn learning page where the user can find the skills he would be best suitable for.
+
+---
+
 ## Finger Gestures
 
 To activate the air navigation/gesture mode, say "open air navigation" to the chatbot.
